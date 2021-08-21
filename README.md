@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src="./web/src/assets/images/logo.svg" />
+    <img alt="Proffy" width="400" title="Proffy" src="https://raw.githubusercontent.com/gabriellopesglp/next-level-week-2/master/.github/proffy.png" />
 </h1>
 
 <p align="center">
